@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://atexhort.github.io/sitemap.html.gz
+Sitemap: https://atexhort.github.io/app/sitemap.html.gz
+Sitemap: https://atexhort.github.io/assets/sitemap.html.gz
+Sitemap: https://atexhort.github.io/css/sitemap.html.gz
+Sitemap: https://atexhort.github.io/includes/sitemap.html.gz
+Sitemap: https://atexhort.github.io/item/sitemap.html.gz
+Sitemap: https://atexhort.github.io/src/sitemap.html.gz
